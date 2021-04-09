@@ -1,10 +1,5 @@
 <html>
-<body>
-<h2>this is index page</h2>
-
-<jsp:include page="printdate.jsp" />
-
-<h2>this is end of index page</h2>
-
-</body>
+<h2>You'll have a luck day!</h2>
+<p>(0.987)</p>
+<a href="first.jsp"><h3>Try Again</h3></a>
 </html>
